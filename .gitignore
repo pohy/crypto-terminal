@@ -7,3 +7,4 @@ plugins/
 www/
 package-lock.json
 .DS_Store
+.idea/
